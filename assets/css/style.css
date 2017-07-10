@@ -107,7 +107,7 @@ div {
 	bottom: 20px;
 	line-height: 50px;
 	text-align: center;
-	background: #333333;
+	background: rgba(51, 51,51, .3);
 	width: 100%;
 }
 h3 {
