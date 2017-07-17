@@ -1,0 +1,1 @@
+A version of hangman with gundam related word bank that doesn't require prior knowledge of the series to play.
