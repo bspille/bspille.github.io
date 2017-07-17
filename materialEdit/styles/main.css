@@ -124,6 +124,10 @@ img {
   border-color: rgba(255, 255, 255, 0.2);
 }
 
+.mdl-card__media {
+  background-color: #FAEBD7;
+}
+
 .event-card .mdl-card__title {
   -ms-flex-align: start;
       align-items: flex-start;
@@ -216,6 +220,11 @@ img.article-image {
 .form-contact .mdl-textfield {
   width: 100%;
 }
+#indexPort{
+  padding-bottom: 15px;
+  display: flex;
+  justify-content: center;
+}
 
 #contact-button {
   position: fixed;
@@ -225,6 +234,13 @@ img.article-image {
   margin-right: 40px;
   margin-bottom: 40px;
   z-index: 900;
+  background-color: #FFA500 !important;
+}
+#submitButton{
+  background-color: #449D44;
+}
+#portfolioButton{
+  background-color: #286090;
 }
 
 footer .mdl-logo a {
