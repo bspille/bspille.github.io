@@ -1,1 +1,0 @@
-A application for managing work orders in the work place.
